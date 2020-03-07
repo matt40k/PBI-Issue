@@ -1,4 +1,7 @@
 # PBI-Issue
+
+# FIXED
+
 Issue with updating Azure Data Lake Storage gen2 (ADLSg2) account via the Power BI service (app.powerbi.com).
 
 *Notes about the example .pbit*
